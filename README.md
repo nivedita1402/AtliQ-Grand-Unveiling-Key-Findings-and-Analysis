@@ -24,11 +24,18 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
     **3.** AtliQ Bay in Mumbai has the lowest average rating and occupancy percentage compared to its peer hotels.
 
+    Link to live dashboard: https://lnkd.in/dyMJgXR8
+
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Establishing data model relationships (star & snoflake schema)
 - [x]	Utilizing DAX to create calculated columns.
+      
+## Soft Skills:
+- [x]	Refined understanding of Hospitality Business.
+- [x]	Crafting Reports centered around user experience with a focus on empathy.
+- [x]	Establishing a methodical framework for creating a strategic report development plan.
 
 ## Soft Skills:
 - [x]	Refined understanding of Hospitality Business.
